@@ -4,10 +4,11 @@
 
 # Feature selection
 
-<div align="center">
-    <img width="400" src="src/results/sga.png" />
-</div>
+Do feature selection on a dataset by using the loss function (root-mean-squared-error) as the fitness function for the genetic algorithm.
+
+# Results
 
 <div align="center">
+    <img width="400" src="src/results/sga.png" />
     <img width="400" src="src/results/crowding.png" />
 </div>
